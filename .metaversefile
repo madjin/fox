@@ -1,6 +1,6 @@
 {
   "name": "fox",
-  "start_url": "fox.glb",
+  "start_url": "https://webaverse.github.io/fox/fox.glb",
   "components": [
     {
       "key": "look",
